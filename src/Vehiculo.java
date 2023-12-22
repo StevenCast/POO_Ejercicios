@@ -40,6 +40,5 @@ public class Vehiculo {
         coche.acelerar();
         bici.acelerar();
         avion.acelerar();
-
     }
 }
